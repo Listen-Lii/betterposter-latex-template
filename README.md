@@ -1,3 +1,12 @@
+# REPOSITORY HAS BEEN MOVED TO https://github.com/ufal/UFAL_poster
+
+
+
+
+
+
+
+
 # Better Poster Latex Template
 
 The **Better Poster** is [Mike Morrison](https://twitter.com/mikemorrison)'s response to the traditional academic poster. In his own words:
